@@ -1,4 +1,4 @@
-# Recruitment Analysis README
+# Recruitment Analysis
 
 ## Overview
 In the Indian tech industry, a significant challenge exists: out of 1.5 million software engineers graduating annually, only 4.77% meet the minimum hiring criteria for product firms. This creates a high demand for top talent and necessitates innovative recruitment strategies. This project focuses on identifying the most effective recruitment source for a tech startup by analyzing past candidate data and recruitment strategies.
