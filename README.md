@@ -1,5 +1,5 @@
 ```markdown
-# Recruitment Data Analysis
+## Recruitment Data Analysis
 
 This project performs data analysis on a recruitment dataset to gain insights into the performance and attrition rates of employees based on their recruiting sources. The analysis includes handling missing values, calculating summary statistics, and visualizing key metrics.
 
@@ -106,7 +106,4 @@ pip install pandas plotnine
 
 This analysis provides valuable insights into the performance and attrition rates of employees based on their recruiting sources. By identifying which sources yield the best performance and lowest attrition, organizations can optimize their recruitment strategies to improve overall workforce quality.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 ```
