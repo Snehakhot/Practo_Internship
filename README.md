@@ -4,10 +4,10 @@
 In the Indian tech industry, a significant challenge exists: out of 1.5 million software engineers graduating annually, only 4.77% meet the minimum hiring criteria for product firms. This creates a high demand for top talent and necessitates innovative recruitment strategies. This project focuses on identifying the most effective recruitment source for a tech startup by analyzing past candidate data and recruitment strategies.
 
 ### Project Objectives
-- **Situation:** Address the challenge of sourcing top talent in the Indian tech industry.
-- **Task:** Analyze historical recruitment data to identify the most effective recruitment sources.
-- **Action:** Perform exploratory data analysis (EDA), handle missing values, group data by recruiting sources, and create visualizations to derive insights.
-- **Result:** Improved retention rates by 20% and recruitment efficiency by 15% through data-driven recommendations.
+- Address the challenge of sourcing top talent in the Indian tech industry.
+- Analyze historical recruitment data to identify the most effective recruitment sources.
+- Perform exploratory data analysis (EDA), handle missing values, group data by recruiting sources, and create visualizations to derive insights.
+- Improved retention rates by 20% and recruitment efficiency by 15% through data-driven recommendations.
 
 ## Prerequisites
 Ensure you have the following installed:
